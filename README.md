@@ -1,15 +1,17 @@
 # News app Demo 
 News App created using ReactJs
 
-### [Live Site](https://newsapp.netlify.app/)
+### [Live Site](https://newsheadlinesreact.netlify.app/)
 
 ![Screenshot](https://i.ibb.co/QvgBrv3/news-ss.png)
 
 # Installation
 
 ```sh
-$ git clone https://github.com/syedoz/react-newspaper.git
+$ git clone https://github.com/ajf013/news-app-react.git
 $ npm i
+$ npm start
+$ Remember to change your api key
 ```
 
 ## Folder Structure
